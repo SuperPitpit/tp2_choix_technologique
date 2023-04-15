@@ -6,10 +6,12 @@
 
 <h2>Support en temps réel ou partage d'écran</h2>
 
-![Image de l'accueil](/images/home.PNG)
+![Image de l'accueil](/images/utilisation//home.PNG)
 
 <p>1.Choisissez l'option "Acces Remote Screen" pour controler l'ordinateur d'un client ou utiliser "Share My Screen" pour partager votre écran. Pesez sur l'option "START NOW" pour commencer une session d'aide à distance. À mentionner que vous pouvez rajouter l'adresse électronique de votre client pour lui envoyé directement l'invitation.
 </p>
+
+![Image par rapport au code de partage](/images/utilisation//code_acces.PNG)
 
 <p>2.La nouvelle fenêtre ouverte vous donnera plus option pour vous connecter sur l'ordinateur de votre client.
 Vous pouvez lui envoyez le code marquer sur vote écran, un que vous pouvez copier appartir de la nouvelle fenêtre,
