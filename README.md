@@ -5,13 +5,13 @@ Zoho Assist est une solution de support à distance qui permet aux utilisateurs 
     Allez sur le site web de Zoho Assist à l'adresse https://www.zoho.com/fr/assist/.
 
     Cliquez sur le bouton "Essai gratuit" pour vous inscrire à un compte gratuit. Entrez votre adresse e-mail et votre mot de passe pour vous inscrire.
-    (/images/installation/PremiereÉtape.PNG)
+    ![Première Étape](/images/installation/PremiereÉtape.PNG)
 
     Une fois que vous êtes connecté, vous serez redirigé vers le tableau de bord de Zoho Assist. Cliquez sur le bouton "Télécharger" pour installer le logiciel Zoho Assist.
-    (/images/installation/DeuxièmeÉtape.PNG)
+    ![Deuxième Étape](/images/installation/DeuxièmeÉtape.PNG)
 
     Choisissez la version appropriée pour votre système d'exploitation et cliquez sur "Télécharger". Le téléchargement commencera automatiquement.
-    (/images/installation/TroisièmeÉtape.PNG)
+    ![Troisème Étape](/images/installation/TroisièmeÉtape.PNG)
 
     Ouvrez le fichier téléchargé et suivez les instructions à l'écran pour installer Zoho Assist sur votre ordinateur.
 
