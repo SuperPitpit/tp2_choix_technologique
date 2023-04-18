@@ -1,10 +1,10 @@
 <h1>Guide d'utilisation de Zoha Assist</h1>
 
-<h2>Première étape</h2>
+<h2>Première étape</h3>
 
 <p>Suivez la formation d'installation de Zoha Assit.</p>
 
-<h2>Support en temps réel ou partage d'écran</h2>
+<h3>Support en temps réel ou partage d'écran</h3>
 
 ![Image de l'accueil](/images/utilisation//home.PNG)
 
@@ -24,7 +24,12 @@ un message vers son adresse électronique directement ou un message par SMS.
 Vous pouvez ajouter un adresse électronique de destination, un titre, une decription et choisir toutes informations par rapport moment de la session à venir. Vous allez pouvoir voir les sessions cédulées dans l'accueil de l'application ou dans la section "SERVICE QUEUE".
 </p>
 
-<h2>Contacts</h2>
+![Image pour l'explication des informations sur les sessions passées](/images/utilisation/info_session.png)
+
+<p>Dans la partie "Remote Support" vous pouvez voir les sessions faites par le passé, les sessions cédulées et vos sessions préférées.
+Vous avez les même options dans la partie "AR Assistance" dans la bande du haut.</p>
+
+<h3>Contacts</h3>
 
 ![Image contact](/images/utilisation/add.PNG)
 
@@ -34,4 +39,30 @@ Vous pouvez ajouter un adresse électronique de destination, un titre, une decri
 ![Image importation de contacts](/images/utilisation/import.PNG)
 
 <p>À noter que vous pouvez importés des profils de clients en cliquant sur "IMPORT CONTACT" et puis en choisissant votre option d'importation entre une importation à partir de google, une importation à partir de votre compte Zoho CRM (si vous en avez un) et une importation à partir d'une fichier à cette effet.
+</p>
+
+<h3>Contrôle à distance sur le long terme</h3>
+
+![Image contrôle à distance sur le long terme](/images/utilisation/distance.PNG)
+
+<p>Dans la partie "Unattended Access" du logiciel vous pouvez activé un contrôle à distance qui peux durer dans le temps et ne pas à avoir besoin de votre client tout le temps pour l'activé. Il y a trois options à votre disposition : utilisation d'un lien, déploiment pour un réseau et l'instalation d'un système d'exploitation à cet effet.
+</p>
+
+<h3>Informations avancées sur les sessions</h3>
+
+![Image pour la partie rapport](/images/utilisation/report_red.png)
+
+<p>La section "Reports" vous permet d'avoir plus d'informations sur les différentes sessions d'aide à distance déjà faites qu'elles soient avec le client connectés ou non avec vous pendant la session. Il y a le nombre de session, la duré des sessions, le nombre de session par technicien, la duré des sessions par technicien, les sessions demandées par des clients et la partie "Live Reports" pour avoir des informations sur l'ensemble des sessions. 
+</p>
+
+![Image par rapport aux recherches d'informations sur les sessions d'aide à distance.](/images/utilisation/recherche.png)
+
+<p>
+Vous pouvez ajusté la période sur laquelle voulez voir les informations sur les différentes sessions déjà faites.</p>
+
+<h3>Messages</h3>
+
+![Image par rapport aux messages](images/utilisation/chat.PNG)
+
+<p>Dans l'application il y des boutons qui reste tout le temps en bas à gauche de l'écran: "Chats" et "Contacts". Les deux onglets permettent d'avoir vos différents conversations avec d'autre personnes par texte et de rechercher vos contacts.
 </p>
