@@ -64,5 +64,28 @@ Vous pouvez ajusté la période sur laquelle voulez voir les informations sur le
 
 ![Image par rapport aux messages](images/utilisation/chat.PNG)
 
-<p>Dans l'application il y des boutons qui reste tout le temps en bas à gauche de l'écran: "Chats" et "Contacts". Les deux onglets permettent d'avoir vos différents conversations avec d'autre personnes par texte et de rechercher vos contacts.
+<p>Dans l'application il y des boutons qui reste tout le temps en bas à gauche de l'écran: "Chats" et "Contacts". Les deux onglets permettent d'avoir vos différents conversations avec d'autre personnes par texte et de rechercher vos contacts une personne dans vos contacts.
 </p>
+
+![Image pour le chat avec les experts de Zoho Assist](/images/utilisation/chatexpert.png)
+
+<p>Vous pouvez contacter les experts de Zoho Assist en cliquant sur le bouton à cette effet en bas droit de l'interface. Vous mettez votre email si ce n'est pas déjà fait et vous écrivez votre message. Ensuite, vous cliquer sur le bouton pour envoyer le message.
+</p>
+
+![Image pour contacter le support de Zoho Assist](/images/utilisation/contactus.png)
+
+<p>Avec le bouton "Contact Us" en bas à gauche de l'interface, vous pouvez contacter les personnes de Zoho Assist et poser des questions par rapport à un ou des problèmes que vous rencontrer. Il y a aussi des informations qui peuvent être utile pour les contacter autrement.</p>
+
+<h3>Zoho Notebook</h3>
+
+![Image pour le bloc-notes](/images/utilisation/notebook.png)
+
+<p>En bas à droite du logiciel il y a un bloc-notes, "Zoho NoteBook", qui est disponible. </p>
+
+![Image pour le plus](/images/utilisation/noteookplus.png)
+
+![Image pour la modification d'une note](/images/utilisation/notebookclic.png)
+
+<p>Le carré avec le symbole plus à l'intérieur permet de créer des notes avec plusieurs options: un texte, une liste de choses à faire, une photo et joindre un fichier. La loupe permet de faire des recherches dans les notes déjà existantes. Si vous cliquez directement sur une note vous pourez la modifier: changer son arrière plan, changer son titre, changer son texte, supprimer la note, l'ouvrir sur internet ou sortir de celle-ci avec le X.
+</p>
+
