@@ -20,3 +20,7 @@ Une fois l'installation terminée, ouvrez Zoho Assist et connectez-vous avec vos
 Si vous souhaitez accéder à distance à un ordinateur client, vous devrez demander à l'utilisateur d'installer le logiciel client sur son ordinateur. Entrez l'adresse mail de votre client dans la barre prévue a cet effet puis cliquer sur Démarrer maintenant ou Planification selon le besoin.
 
 En suivant ces étapes simples, vous pourrez installer et utiliser Zoho Assist pour fournir un support à distance efficace à vos clients. N'oubliez pas que vous aurez besoin d'un compte Zoho Assist pour accéder à toutes les fonctionnalités de la plateforme, alors inscrivez-vous aujourd'hui pour profiter de l'essai gratuit et découvrir tout ce que Zoho Assist peut vous offrir.
+
+Installation Mobile:
+
+Pour l'installation Zoho Assist ppur Mobile, télécharger l'application a partir de votre gestionnaire d'application et suivez les étapes comme si dessus.
