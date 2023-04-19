@@ -89,3 +89,6 @@ Vous pouvez ajusté la période sur laquelle voulez voir les informations sur le
 <p>Le carré avec le symbole plus à l'intérieur permet de créer des notes avec plusieurs options: un texte, une liste de choses à faire, une photo et joindre un fichier. La loupe permet de faire des recherches dans les notes déjà existantes. Si vous cliquez directement sur une note, vous pourrez la modifier: changer son arrière-plan, changer son titre, changer son texte, supprimer la note, l'ouvrir sur internet ou sortir de celle-ci avec le X.
 </p>
 
+## Lien vers la vidéo de formation
+
+https://youtu.be/RLCGXVngsh0
