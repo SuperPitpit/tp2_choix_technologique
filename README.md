@@ -24,3 +24,5 @@ En suivant ces étapes simples, vous pourrez installer et utiliser Zoho Assist p
 Installation Mobile:
 
 Pour l'installation Zoho Assist ppur Mobile, télécharger l'application a partir de votre gestionnaire d'application et suivez les étapes comme si dessus.
+
+Voici un lien vers une vidéo reprenant tous les informations présentées: https://youtu.be/blQn3mkVKCY.
